@@ -11,15 +11,6 @@ The course is project based and you'll build a complete website while practising
 - [Actions and protected routes](#actions-and-protected-routes)
 - [Deferred Data](#deferred-data)
 
-### React Router v6
-[React Router V6.4 reference](https://reactrouter.com/en/main)
-
-### Navigation API
-[Navigation API reference](https://developer.chrome.com/docs/web-platform/navigation-api/)
-
-### Single Page Application(SPA)
-[SPA reference](https://developer.mozilla.org/en-US/docs/Glossary/SPA)
-
 ## Introduction to React Router
 
 ## Nested routes
@@ -31,3 +22,13 @@ The course is project based and you'll build a complete website while practising
 ## Actions and Protected Routes
 
 ## Deferred Data
+
+# Reference:
+- ### React Router v6
+  [React Router V6.4 reference](https://reactrouter.com/en/main)
+
+- ### Navigation API
+  [Navigation API reference](https://developer.chrome.com/docs/web-platform/navigation-api/)
+
+- ### Single Page Application(SPA)
+  [SPA reference](https://developer.mozilla.org/en-US/docs/Glossary/SPA)
