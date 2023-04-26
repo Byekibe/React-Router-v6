@@ -5,11 +5,11 @@
 The course is project based and you'll build a complete website while practising client side routing using React router v6
 ### Topics:
 - [Introduction to React Router](#introduction-to-react-router)
-- [Nested routes]
-- [Search params and Links]
-- [Loaders and errors]
-- [Actions and protected routes]
-- [Deffered data]
+- [Nested routes](#nested-routes)
+- [Search params and Links](#search-params-and-links)
+- [Loaders and errors](#loaders-and-errors)
+- [Actions and protected routes](#actions-and-protected-routes)
+- [Deffered Data](#deferred-data)
 
 ### React Router v6
 [React Router V6.4 reference](https://reactrouter.com/en/main)
@@ -21,3 +21,13 @@ The course is project based and you'll build a complete website while practising
 [SPA reference](https://developer.mozilla.org/en-US/docs/Glossary/SPA)
 
 ## Introduction to React Router
+
+## Nested routes
+
+## Search Params and Links
+
+## Loaders and Errors
+
+## Actions and Protected Routes
+
+## Deffered Data
