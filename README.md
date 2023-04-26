@@ -9,7 +9,7 @@ The course is project based and you'll build a complete website while practising
 - [Search params and Links](#search-params-and-links)
 - [Loaders and errors](#loaders-and-errors)
 - [Actions and protected routes](#actions-and-protected-routes)
-- [Deffered Data](#deferred-data)
+- [Deferred Data](#deferred-data)
 
 ### React Router v6
 [React Router V6.4 reference](https://reactrouter.com/en/main)
@@ -30,4 +30,4 @@ The course is project based and you'll build a complete website while practising
 
 ## Actions and Protected Routes
 
-## Deffered Data
+## Deferred Data
